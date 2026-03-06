@@ -1,89 +1,137 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Muhib Ali</h1>
 
 <h3 align="center">
-Data Science Graduate | Machine Learning Enthusiast | Building End-to-End ML Solutions
+Data Science Graduate | Machine Learning Practitioner | Building End-to-End ML Solutions
 </h3>
 
 <p align="center">
-Passionate about applying data science and machine learning to solve real-world problems.
+Passionate about transforming data into actionable insights and deployable machine learning systems.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Data Science graduate with **6 months of industry internship experience**.  
+🎓 Data Science graduate with **6 months of industry internship experience**.
 
-🔬 Interested in **Machine Learning, Computer Vision, and Data Analytics**.
+🔍 Interested in **Machine Learning, Computer Vision, and Data-driven systems**.
 
-⚙️ Experienced in building **end-to-end ML projects** including:
-- Data preprocessing and feature engineering
-- Model training using **Scikit-Learn**
-- Model evaluation and optimization
-- Containerization with **Docker**
-- Deployment-ready workflows
+⚙️ Experienced in building **end-to-end machine learning pipelines**, including:
 
-📊 Strong foundation in **statistics, databases, and data visualization**.
+• Data extraction from SQL and NoSQL databases  
+• ETL pipelines for ML workflows  
+• Model development using **Scikit-learn**  
+• Model serving using **FastAPI**  
+• Containerization using **Docker**  
+
+📊 Strong foundation in **statistics, data analysis, and database systems**.
+
+☁️ Familiar with **AWS cloud services** for scalable data solutions.
 
 💡 Currently seeking opportunities as a **Junior Data Scientist / Machine Learning Engineer**.
 
 ---
 
-## 🧠 Skills & Tools
+# 🧠 Technical Skills
 
-### Programming & Data Science
+## Programming & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-blue?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-Machine%20Learning-orange?style=for-the-badge)
 
-### Computer Vision
+• Machine Learning Model Development  
+• Feature Engineering  
+• Model Evaluation & Optimization  
+• Statistical Analysis  
+
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb)
+
+Experience with:
+
+• Writing complex SQL queries  
+• Working with relational and NoSQL databases  
+• Extracting datasets for machine learning pipelines  
+• Implementing **ETL workflows for ML data preparation**
+
+---
+
+## Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge)
 
-### Databases
+• Image processing  
+• Computer vision experimentation  
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Data Visualization
+## Model Deployment & APIs
 
-![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?style=for-the-badge&logo=powerbi)
+![FastAPI](https://img.shields.io/badge/FastAPI-ML%20API-green?style=for-the-badge&logo=fastapi)
 
-### Tools & Deployment
+• Building ML inference APIs  
+• Deploying trained models using REST APIs  
+
+---
+
+## Tools & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
+
 ![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git)
 
 ---
 
-## ⚙️ Machine Learning Workflow
+## Data Visualization
 
-I enjoy building **complete machine learning pipelines**:
+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi)
 
+• Data dashboards  
+• Business reporting and insights  
+
+---
+
+## Kaggle
+
+Active on **Kaggle** exploring datasets and improving machine learning skills through experiments and competitions.
+
+---
+
+# ⚙️ Machine Learning Pipeline
+
+Typical workflow used in my ML projects:
 
 
 ---
 
-## 📂 Featured Projects
+# 📂 Project Focus Areas
 
-🔹 **Machine Learning Projects**  
-Developed ML models using **Scikit-Learn** including preprocessing, feature engineering, and evaluation.
+Projects in this profile include:
 
-🔹 **Computer Vision Applications**  
-Built practical projects using **image processing and computer vision techniques**.
-
-🔹 **Data Analytics Dashboards**  
-Created **Power BI dashboards** for data insights and visualization.
+• End-to-End Machine Learning Systems  
+• Computer Vision Applications  
+• ML Model APIs using FastAPI  
+• Data Engineering for ML pipelines  
+• Data Analytics Dashboards  
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" height="170"/>
 
@@ -91,15 +139,19 @@ Created **Power BI dashboards** for data insights and visualization.
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOURPROFILE">
+<a href="https://www.linkedin.com/in/muhib-ali-36211622a/">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUREMAIL">
+<a href="https://www.kaggle.com/muhibali">
+<img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle">
+</a>
+
+<a href="muhibalichitral034@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -107,4 +159,4 @@ Created **Power BI dashboards** for data insights and visualization.
 
 ---
 
-⭐ *Aspiring Data Scientist passionate about learning, building, and improving real-world AI solutions.*
+⭐ *Aspiring Data Scientist focused on building practical machine learning systems from data extraction to deployment.*
