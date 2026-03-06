@@ -1,53 +1,66 @@
-<h1 align="center">Hi 👋, I'm Muhib Ali </h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Turning Data into Intelligent Systems</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+
+<h3 align="center">
+Data Science Graduate | Machine Learning Enthusiast | Building End-to-End ML Solutions
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Machine%20Learning-blue" />
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-green" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange" />
-  <img src="https://img.shields.io/badge/Container-Docker-blue" />
+Passionate about applying data science and machine learning to solve real-world problems.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **Data Science Graduate** passionate about building real-world AI solutions.  
-💡 Experienced in **Machine Learning, Computer Vision, and Data Analytics**.  
-⚙️ Skilled in developing **end-to-end ML pipelines** — from **data preprocessing → model development → deployment using Docker and AWS**.  
-📊 Strong background in **statistics, data analysis, and database systems**.
+🎓 Data Science graduate with **6 months of industry internship experience**.  
 
-🔍 Currently seeking opportunities as a **Data Scientist / Machine Learning Engineer** where I can build scalable AI systems and deliver data-driven insights.
+🔬 Interested in **Machine Learning, Computer Vision, and Data Analytics**.
+
+⚙️ Experienced in building **end-to-end ML projects** including:
+- Data preprocessing and feature engineering
+- Model training using **Scikit-Learn**
+- Model evaluation and optimization
+- Containerization with **Docker**
+- Deployment-ready workflows
+
+📊 Strong foundation in **statistics, databases, and data visualization**.
+
+💡 Currently seeking opportunities as a **Junior Data Scientist / Machine Learning Engineer**.
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Skills & Tools
 
-### 📊 Data Science & Machine Learning
+### Programming & Data Science
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-blue?style=for-the-badge)
 
-### 👁 Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-red?style=for-the-badge)
+### Computer Vision
 
-### 🗄 Databases
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+### Data Visualization
 
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi)
+![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?style=for-the-badge&logo=powerbi)
+
+### Tools & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git)
 
 ---
 
 ## ⚙️ Machine Learning Workflow
 
-I can develop **complete ML systems from scratch**:
+I enjoy building **complete machine learning pipelines**:
 
 
 
@@ -55,47 +68,43 @@ I can develop **complete ML systems from scratch**:
 
 ## 📂 Featured Projects
 
-### 🤖 Machine Learning Projects
-- End-to-end ML pipelines using **Scikit-learn**
-- Feature engineering and model optimization
-- Model evaluation and performance tuning
+🔹 **Machine Learning Projects**  
+Developed ML models using **Scikit-Learn** including preprocessing, feature engineering, and evaluation.
 
-### 👁 Computer Vision Applications
-- Image classification systems
-- Real-world vision-based ML solutions
-- Deep learning experimentation
+🔹 **Computer Vision Applications**  
+Built practical projects using **image processing and computer vision techniques**.
 
-### 📊 Data Analytics Dashboards
-- Interactive dashboards built with **Power BI**
-- Data storytelling and business insights
+🔹 **Data Analytics Dashboards**  
+Created **Power BI dashboards** for data insights and visualization.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" height="170"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Connect With Me
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
+
+<a href="https://linkedin.com/in/YOURPROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUREMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:youremail@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-⭐ *“Transforming Data into Intelligent Solutions through Machine Learning and AI.”*
-
+⭐ *Aspiring Data Scientist passionate about learning, building, and improving real-world AI solutions.*
